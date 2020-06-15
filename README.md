@@ -1,6 +1,6 @@
 # Homework_Code-Refractor
 
-I performed a code refractor to check if Horiseon's codebase followed accessibility stanadards. Based on our acceptance criteria, their codebase did not pass the review so the code was modified and condensed accordingly. After the codebase was debugged, condensed and "cleaner than I found it," I performed a secondary code refractor and Horiseon's codebase now meets accessibility standards:
+I performed a code refractor to check if Horiseon's codebase followed accessibility stanadards. Based on our acceptance criteria, their codebase did not pass the review so the code was modified and condensed accordingly. After the codebase was debugged, condensed and "cleaner than I found it," I performed a secondary code refractor and Horiseon's codebase now meets accessibility standards.
 
 
 USER STORY: 
